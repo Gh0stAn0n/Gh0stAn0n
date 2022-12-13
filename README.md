@@ -20,4 +20,4 @@ I’m as well deeply working on learning scientifics based programming languages
 
 [![linkedin](https://icons.iconarchive.com/icons/danleech/simple/48/linkedin-icon.png)](https://www.linkedin.com/in/ethan-benhamou/)
 
-[![github](https://www.shareicon.net/data/48x48/2015/11/10/669662_animal_512x512.png)](https://github.com/gh0st-anonymous/)
+[![github](https://icons.iconarchive.com/icons/danleech/simple/48/github-icon.png)](https://github.com/gh0st-anonymous/)
