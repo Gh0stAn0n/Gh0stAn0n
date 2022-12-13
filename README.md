@@ -8,4 +8,4 @@ my name is Ethan and i'm a graduate Cyber Protection and Information Security fr
 
 ### My Socials Media
 
-[![linkedin](https://brand.linkedin.com/content/dam/brand/site/img/logo/logo-tm.png)](https://www.linkedin.com/in/ethan-benhamou/)
+[![linkedin](https://www.shareicon.net/data/64x64/2017/06/28/888041_logo_512x512.png)](https://www.linkedin.com/in/ethan-benhamou/)
