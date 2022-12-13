@@ -11,6 +11,7 @@ I’m also a self-taught and an out-of-the-box thinker.
 
 I’m as well deeply working on learning scientifics based programming languages such as Julia, Matlab and R for scientific purposes, and i would love to write my very own programming language for all kinds of purposes: Data Sciences (Physics, Engineering, Space, ect…) Video Games, A.I, Hacking; with GUI possibilities.
 
+_________________________________________________________________________________________________________________________________________________________________________
 
 ![gif](https://camo.githubusercontent.com/d87412330e179c453793251de9ef574f11d2c570510e949304f1a767ad891b6c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a4857706956494f475854356c396d2f67697068792e676966)
 
