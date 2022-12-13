@@ -8,6 +8,6 @@ my name is Ethan and i'm a graduate Cyber Protection and Information Security fr
 
 ### My Socials Media
 
-[![linkedin](https://www.shareicon.net/data/64x64/2017/06/30/888066_logo_512x512.png)](https://www.linkedin.com/in/ethan-benhamou/)
+[![linkedin](https://www.shareicon.net/data/64x64/2017/05/22/886191_social-media_512x512.png)](https://www.linkedin.com/in/ethan-benhamou/)
 
 [![github](https://www.shareicon.net/data/48x48/2015/11/10/669662_animal_512x512.png)](https://github.com/gh0st-anonymous/)
