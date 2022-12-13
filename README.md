@@ -18,6 +18,6 @@ I’m as well deeply working on learning scientifics based programming languages
 
 ### My Socials Media
 
-[![linkedin](https://icons.iconarchive.com/icons/danleech/simple/48/linkedin-icon.png)](https://www.linkedin.com/in/ethan-benhamou/)
+[![linkedin](https://icons.iconarchive.com/icons/danleech/simple/32/linkedin-icon.png)](https://www.linkedin.com/in/ethan-benhamou/)
 
 [![github](https://icons.iconarchive.com/icons/uiconstock/folded-social-media/48/Github-icon.png)](https://github.com/gh0st-anonymous/)
