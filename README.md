@@ -14,11 +14,7 @@ I’m as well deeply working on learning scientifics based programming languages
 _________________________________________________________________________________________________________________________________________________________________________
 
 ![gif](https://camo.githubusercontent.com/d87412330e179c453793251de9ef574f11d2c570510e949304f1a767ad891b6c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a4857706956494f475854356c396d2f67697068792e676966)
-
-
-
 ### My Socials Media
-
 [![linkedin](https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png)](https://www.linkedin.com/in/ethan-benhamou/)
 
 [![github](https://icons.iconarchive.com/icons/uiconstock/folded-social-media/48/Github-icon.png)](https://github.com/gh0st-anonymous/)
