@@ -13,7 +13,9 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ethan_bhm)
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gh0st-anonymous) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gh0st-anonymous)
+
+[![GitHub](https://img.shields.io/badge/-Github-000?style=flat-square&amp;logo=Github&logoColor=white)](https://github.com/gh0st-anonymous/)
 
 ---
 
