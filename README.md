@@ -7,7 +7,7 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 
 ---
 
-# 🌐 Socials Networks
+## 🌐 Socials Networks
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethan-benhamou)
 
@@ -17,7 +17,7 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
@@ -53,7 +53,7 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=gh0st-anonymous&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gh0st-anonymous&theme=dark&hide_border=false)<br/>
