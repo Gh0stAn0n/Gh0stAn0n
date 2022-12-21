@@ -21,20 +21,19 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 
 ## 🎓 Coding Platforms
 
-![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?logo=codecademy&logoColor=1F243A)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123?logo=freecodecamp&logoColor=green)
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=grey)
-
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)
-![Datacamp](https://img.shields.io/badge/Datacamp-05192D?logo=datacamp&logoColor=03E860)
-![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00?logo=CodeChef&logoColor=white)
-
-![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454?logo=HackerEarth&logoColor=Blue)
-![CodePen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)
-![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?logo=pluralsight&logoColor=white)
-
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?logo=geeksforgeeks&logoColor=35914c)
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?logo=codecademy&logoColor=1F243A)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)
+![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454?logo=HackerEarth&logoColor=Blue)
+
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123?logo=freecodecamp&logoColor=green)
+![Datacamp](https://img.shields.io/badge/Datacamp-05192D?logo=datacamp&logoColor=03E860)
+![CodePen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)
+
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=grey)
+![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00?logo=CodeChef&logoColor=white)
+![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?logo=pluralsight&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=Udemy&logoColor=white)
 
 ---
