@@ -33,17 +33,17 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?logo=geeksforgeeks&logoColor=35914c)
 
-![Datacamp](https://img.shields.io/badge/Datacamp-05192D?logo=datacamp&logoColor=03E860)
-
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123?logo=freecodecamp&logoColor=green)
 
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=grey)
-
-![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00?logo=CodeChef&logoColor=white)
+![Datacamp](https://img.shields.io/badge/Datacamp-05192D?logo=datacamp&logoColor=03E860)
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=Udemy&logoColor=white)
 
 ![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?logo=pluralsight&logoColor=white)
+
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=grey)
+
+![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00?logo=CodeChef&logoColor=white)
 
 ---
 
