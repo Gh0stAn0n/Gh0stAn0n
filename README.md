@@ -41,7 +41,7 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 
 ---
 
-## 💻 Programing Languages
+## 💻 Programming Languages
 
 #### for programmation:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
