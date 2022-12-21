@@ -17,9 +17,19 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 
 [![GitHub](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white)](https://github.com/gh0st-anonymous/)
 
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?logo=codecademy&logoColor=1F243A)
+
 ![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454?logo=HackerEarth&logoColor=Blue)
 
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)
+
+![Datacamp](https://img.shields.io/badge/Datacamp-05192D?logo=datacamp&logoColor=03E860)
+
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123?logo=freecodecamp&logoColor=green)
+
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=grey)
+
+![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?logo=codingninjas&logoColor=white)
 
 ---
 
