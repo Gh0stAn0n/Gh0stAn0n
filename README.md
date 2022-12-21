@@ -17,6 +17,10 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 
 [![GitHub](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white)](https://github.com/gh0st-anonymous/)
 
+[![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=flat&logo=HackerEarth&logoColor=Blue)]
+
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)]
+
 ---
 
 ## 💻 Tech Stack
