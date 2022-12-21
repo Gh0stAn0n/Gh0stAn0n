@@ -64,7 +64,7 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6?logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%?logo=javascript&logoColor=%23F7DF1E) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330?logo=javascript&logoColor=%23F7DF1E) 
 ![Meteor JS](https://img.shields.io/badge/meteorjs-%23d74c4c?logo=meteor&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a?logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
