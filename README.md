@@ -35,8 +35,6 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=grey)
 
-![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?logo=codingninjas&logoColor=white)
-
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=Udemy&logoColor=white)
 
 ![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?logo=pluralsight&logoColor=white)
