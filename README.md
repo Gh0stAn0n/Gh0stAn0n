@@ -17,6 +17,8 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 
 [![GitHub](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white)](https://github.com/gh0st-anonymous/)
 
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717?logo=gitlab&logoColor=white))](https://gitlab.com/gh0st-anonymous)
+
 ---
 
 ## 🎓 Coding Platforms
@@ -40,33 +42,33 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 
 ## 💻 Tech Stack
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=flat&logo=perl&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C?logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120?logo=c-sharp&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000?logo=rust&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011?logo=gnu-bash&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4?logo=php&logoColor=white)
+![Perl](https://img.shields.io/badge/perl-%2339457E?logo=perl&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D?logo=ruby&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8?logo=go&logoColor=white)
 
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72?style=flat&logo=lua&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3?style=flat&logo=r&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-%23DC322F?style=flat&logo=scala&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white)
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=flat&logo=octave&logoColor=fcd683)
-![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=flat&logo=Qiskit&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4?style=flat&logo=Qiskit&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![Meteor JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=flat&logo=meteor&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%logo=javascript&logoColor=%23F7DF1E) 
+![Meteor JS](https://img.shields.io/badge/meteorjs-%23d74c4c?logo=meteor&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a?logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white)
