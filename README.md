@@ -83,7 +83,7 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 ![stats](https://github-readme-streak-stats.herokuapp.com/?user=gh0st-anonymous&theme=dark&hide_border=false)<br/>
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gh0st-anonymous&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![view](https://visitcount.itsvg.in/api?id=gh0st-anonymous&icon=1&color=12)](https://visitcount.itsvg.in)
+[![view](https://visitcount.itsvg.in/api?id=gh0st-anonymous&icon=1&color=12)](https://visitcount.itsvg.in)
 
 ![gif](https://raw.githubusercontent.com/tondrejk/tondrejk/main/contributions.svg)
 
