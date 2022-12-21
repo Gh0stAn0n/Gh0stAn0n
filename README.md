@@ -9,17 +9,17 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 
 ## 🌐 Socials Networks
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethan-benhamou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethan-benhamou)
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gh0st-anonymous)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?logo=YouTube&logoColor=white)](https://youtube.com/@gh0st-anonymous)
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ethan_bhm)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?logo=Twitter&logoColor=white)](https://twitter.com/@ethan_bhm)
 
 [![GitHub](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white)](https://github.com/gh0st-anonymous/)
 
-![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454?&style=flat&logo=HackerEarth&logoColor=Blue)
+![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454?logo=HackerEarth&logoColor=Blue)
 
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)
 
 ---
 
