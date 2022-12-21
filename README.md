@@ -17,7 +17,7 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 
 [![GitHub](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white)](https://github.com/gh0st-anonymous/)
 
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717?logo=gitlab&logoColor=white))](https://gitlab.com/gh0st-anonymous)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717?logo=gitlab&logoColor=white)](https://gitlab.com/gh0st-anonymous)
 
 ---
 
@@ -53,29 +53,29 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8?logo=go&logoColor=white)
 
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72?style=flat&logo=lua&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3?style=flat&logo=r&logoColor=white)
-![Scala](https://img.shields.io/badge/scala-%23DC322F?style=flat&logo=scala&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white)
-![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=flat&logo=octave&logoColor=fcd683)
-![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4?style=flat&logo=Qiskit&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72?logo=lua&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3?logo=r&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-%23DC322F?logo=scala&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)
+![Octave](https://img.shields.io/badge/OCTAVE-darkblue?logo=octave&logoColor=fcd683)
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4?logo=Qiskit&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6?style=flat&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6?logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%?logo=javascript&logoColor=%23F7DF1E) 
 ![Meteor JS](https://img.shields.io/badge/meteorjs-%23d74c4c?logo=meteor&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a?logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6?logo=azure-devops&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e?logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?logo=mongodb&logoColor=white)
 
 ---
 
