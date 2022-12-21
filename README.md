@@ -85,6 +85,4 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 
 [![view](https://visitcount.itsvg.in/api?id=gh0st-anonymous&icon=1&color=12)](https://visitcount.itsvg.in)
 
-![gif](https://raw.githubusercontent.com/tondrejk/tondrejk/main/contributions.svg)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
