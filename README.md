@@ -23,9 +23,9 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?logo=codecademy&logoColor=1F243A)
 
-![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454?logo=HackerEarth&logoColor=Blue)
-
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)
+
+![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454?logo=HackerEarth&logoColor=Blue)
 
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?logo=datacamp&logoColor=03E860)
 
