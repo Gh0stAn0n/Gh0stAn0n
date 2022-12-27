@@ -11,13 +11,13 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethan-benhamou)
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?logo=YouTube&logoColor=white)](https://youtube.com/@gh0st-anonymous)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?logo=YouTube&logoColor=white)](https://youtube.com/@Gh0stAn0n)
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?logo=Twitter&logoColor=white)](https://twitter.com/@ethan_bhm)
 
-[![GitHub](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white)](https://github.com/gh0st-anonymous/)
+[![GitHub](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white)](https://github.com/Gh0stAn0n/)
 
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717?logo=gitlab&logoColor=white)](https://gitlab.com/gh0st-anonymous)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717?logo=gitlab&logoColor=white)](https://gitlab.com/Gh0stAn0n)
 
 ---
 
