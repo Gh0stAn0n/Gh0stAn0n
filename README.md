@@ -21,7 +21,7 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 
 ---
 
-## 🎓 Coding Platforms
+## 🎓 Coding Platforms 
 
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?logo=geeksforgeeks&logoColor=35914c)
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?logo=codecademy&logoColor=1F243A)
