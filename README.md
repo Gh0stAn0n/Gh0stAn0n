@@ -21,7 +21,7 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 
 ---
 
-## 🐞 Bug Bounty Platforms
+## 🐞 Bug Bounties Platforms
 
 [![hackerone](https://img.shields.io/badge/-HackerOne-%23494649?logo=hackerone&logoColor=white)](https://hackerone.com/gh0stan0n?type=user)
 
@@ -33,21 +33,21 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 
 ## 🎓 Coding Platforms 
 
-![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?logo=geeksforgeeks&logoColor=35914c)
-![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?logo=codecademy&logoColor=1F243A)
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)
-![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454?logo=HackerEarth&logoColor=Blue)
-![Exercism](https://img.shields.io/badge/Exercism-009CAB?logo=exercism&logoColor=white)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?logo=geeksforgeeks&logoColor=35914c)]()
+[![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/profiles/Gh0stAn0n)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Gh0stAn0n)
+[![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454?logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@Gh0stAn0n)
+[![Exercism](https://img.shields.io/badge/Exercism-009CAB?logo=exercism&logoColor=white)](https://exercism.org/profiles/Gh0stAn0n)
 
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123?logo=freecodecamp&logoColor=green)
-![Datacamp](https://img.shields.io/badge/Datacamp-05192D?logo=datacamp&logoColor=03E860)
-![CodePen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)
+[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123?logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/Gh0stAn0n)
+[![Datacamp](https://img.shields.io/badge/Datacamp-05192D?logo=datacamp&logoColor=03E860)](https://app.datacamp.com/profile/Gh0stAn0n)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Gh0stAn0n)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Gh0stAn0n/)
 
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=grey)
-![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00?logo=CodeChef&logoColor=white)
-![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?logo=pluralsight&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=Udemy&logoColor=white)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=grey)](https://www.codewars.com/users/Gh0stAn0n)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/gh0stan0n)
+[![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?logo=pluralsight&logoColor=white)](https://www.pluralsight.com/)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=Udemy&logoColor=white)](https://www.udemy.com/)
 
 ---
 
