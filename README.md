@@ -21,7 +21,7 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 
 ---
 
-## Bug Bounty Platforms
+## ![bug](https://icons8.com/icon/f103Pm7GmbrD/website-bug) Bug Bounty Platforms
 
 ![hackerone](https://img.shields.io/badge/-HackerOne-%23494649?logo=hackerone&logoColor=white)
 
