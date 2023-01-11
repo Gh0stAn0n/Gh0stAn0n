@@ -36,8 +36,6 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 
 [![THM](https://img.shields.io/badge/-TryHackMe-%23212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Gh0stAn0n)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Gh0stAn0n.png" alt="TryHackMe">
-
 ---
 
 ## 🎓 Coding Platforms 
