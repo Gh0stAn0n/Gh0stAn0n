@@ -30,11 +30,14 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 [![intigriti](https://img.shields.io/badge/-Intigriti-%23161A36?logo=intigriti&logoColor=white)](https://app.intigriti.com/researcher/profile/gh0stan0n)
 
 
-## Hacking Platforms
+## 🏴‍☠️ Hacking Platforms
 
 [![HTB](https://img.shields.io/badge/-HackTheBox-%239FEF00?logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1056069)
+
 [![THM](https://img.shields.io/badge/-TryHackMe-%23212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Gh0stAn0n)
-<script src="https://tryhackme.com/badge/1474760"></script>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Gh0stAn0n.png" alt="TryHackMe">
+
 ---
 
 ## 🎓 Coding Platforms 
