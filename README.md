@@ -9,10 +9,6 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 
 ## 🌐 Socials Networks
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ethan-benhamou" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://il.linkedin.com/in/ethan-benhamou?trk=profile-badge">Ethan Benhamou</a></div>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethan-benhamou)
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?logo=YouTube&logoColor=white)](https://youtube.com/@Gh0stAn0n)
