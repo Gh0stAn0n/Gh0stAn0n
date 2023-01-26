@@ -42,7 +42,7 @@ french-israeli of 22 years old and a proud IDF veteran where i have served in, n
 
 ## 🎓 Coding Platforms 
 
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/gh0stan0n)
 [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/profiles/Gh0stAn0n)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Gh0stAn0n)
 [![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454?logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@Gh0stAn0n)
