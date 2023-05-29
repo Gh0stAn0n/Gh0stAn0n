@@ -79,6 +79,7 @@ I’m also a self-taught and an out-of-the-box thinker.<br><br>I’m as well dee
 ![R](https://img.shields.io/badge/r-%23276DC3?logo=r&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F?logo=scala&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)
+![Clojure](https://img.shields.io/badge/Clojure-%23Clojure?logo=Clojure&logoColor=Clojure)
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?logo=octave&logoColor=fcd683)
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4?logo=Qiskit&logoColor=white)
 
