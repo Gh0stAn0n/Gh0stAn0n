@@ -95,6 +95,7 @@ I’m also a self-taught and an out-of-the-box thinker.<br><br>I’m as well dee
 ![Azure](https://img.shields.io/badge/azure-%230072C6?logo=azure-devops&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f?logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e?logo=sqlite&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?logo=mongodb&logoColor=white)
 
