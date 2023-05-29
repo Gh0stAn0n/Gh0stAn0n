@@ -68,6 +68,7 @@ I’m also a self-taught and an out-of-the-box thinker.<br><br>I’m as well dee
 ![C#](https://img.shields.io/badge/c%23-%23239120?logo=c-sharp&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000?logo=rust&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011?logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/powershell-5391FE?logo=powershell&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4?logo=php&logoColor=white)
 ![Perl](https://img.shields.io/badge/perl-%2339457E?logo=perl&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D?logo=ruby&logoColor=white)
