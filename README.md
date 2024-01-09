@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 #### Dozoyoroshiku, Ethan desu
-Passionate by history and science since i’m young - Mathematics, Physics, Biology, Chemistry, Astronomy, etc… but above all, anything related to technology. Video Games, Artificial Intelligence, and the power provided by Cybersecurity, which is a world from another dimension.
+Passionate by history and science since i’m young - Mathematics, Physics, Biology, Chemistry, Astronomy, etc… but above all, anything related to technology - Video Games, Artificial Intelligence, and the power provided by Cybersecurity, which is a world from another dimension.
 
 My favorite cyber field is Penetration Testing but I’m interested in Malwares and Reverse Engineering as well.
 I’m currently active on multiple bug bounty programs such as HackerOne and Immunefi.
