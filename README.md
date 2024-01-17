@@ -3,7 +3,7 @@
 #### Dozoyoroshiku, Ethan desu
 Passionate by history and science since i’m young - Mathematics, Physics, Biology, Chemistry, Astronomy, etc… but above all, anything related to technology - Video Games, Artificial Intelligence, and the power provided by Cybersecurity, which is a world from another dimension.
 
-My favorite cyber field is Penetration Testing but I’m interested in Malwares and Reverse Engineering as well.
+My favorite cyber field is Penetration Testing but I’m interested in Reverse Engineering and Exploit Development as well.
 I’m currently active on multiple bug bounty programs such as HackerOne and Immunefi.
 
 I'm also a Software Developer with extensive knowledge of the CWE/SANS TOP 25 Security Vulnerabilities, adept at identifying and mitigating potential security risks by analyzing and optimizing the application source-code.
@@ -11,7 +11,7 @@ I'm also a Software Developer with extensive knowledge of the CWE/SANS TOP 25 Se
 I’m as well deeply working on learning scientific-based programming languages such as Julia, Lua, Lisp, Haskell, Scilab, Scala, and R for scientific purposes. Ultimately, I aspire to create my own low-level programming language.
 
 
-![gif](https://camo.githubusercontent.com/d87412330e179c453793251de9ef574f11d2c570510e949304f1a767ad891b6c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a4857706956494f475854356c396d2f67697068792e676966)
+![gif](https://media3.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif?cid=ecf05e47cncowfb81642td6oiqf6t5ev8mb3xgli8tmijki6&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ---
 
