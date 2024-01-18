@@ -6,7 +6,7 @@ Passionate by history and science since i’m young - Mathematics, Physics, Biol
 My favorite cyber field is Penetration Testing but I’m interested in Reverse Engineering and Exploit Development as well.
 I’m currently active on multiple bug bounty programs such as HackerOne and Immunefi.
 
-I'm also a Software Developer with extensive knowledge of the CWE/SANS TOP 25 Security Vulnerabilities, adept at identifying and mitigating potential security risks by analyzing and optimizing the application source-code.
+I'm also a C# Software Developer with extensive knowledge of the CWE/SANS TOP 25 Security Vulnerabilities, adept at identifying and mitigating potential security risks by analyzing and optimizing the application source code.
 
 I’m as well deeply working on learning scientific-based programming languages such as Julia, Lua, Lisp, Haskell, Scilab, Scala, and R for scientific purposes. Ultimately, I aspire to create my own low-level programming language.
 
