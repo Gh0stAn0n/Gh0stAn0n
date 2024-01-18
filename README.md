@@ -33,6 +33,7 @@ I’m as well deeply working on learning scientific-based programming languages 
 
 [![microsoft](https://img.shields.io/badge/Microsoft-0078D4?logo=microsoft&logoColor=white)](https://msrc.microsoft.com/)
 [![google](https://img.shields.io/badge/google-0078D4?logo=google&logoColor=white)](https://bughunters.google.com/profile/b6e09c6c-f5ca-4b2b-aa51-aed6193a8418)
+[![apple](<img src="https://img.shields.io/badge/apple-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white" />)
 
 [![hackerone](https://img.shields.io/badge/-HackerOne-%23494649?logo=hackerone&logoColor=white)](https://hackerone.com/gh0stan0n?type=user)
 [![bugcrowd](https://img.shields.io/badge/-Bugcrowd-%23F26822?logo=bugcrowd&logoColor=white)](https://bugcrowd.com/Gh0stAn0n)
@@ -118,5 +119,6 @@ I’m as well deeply working on learning scientific-based programming languages 
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gh0stAn0n&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![view](https://visitcount.itsvg.in/api?id=Gh0stAn0n&icon=1&color=12)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
