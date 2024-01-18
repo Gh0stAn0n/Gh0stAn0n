@@ -32,7 +32,7 @@ I’m as well deeply working on learning scientific-based programming languages 
 ## 🐞 Bug Bounties Platforms
 
 [![microsoft](https://img.shields.io/badge/Microsoft-0078D4?logo=microsoft&logoColor=white)](https://msrc.microsoft.com/)
-[![google](https://img.shields.io/badge/google-0078D4?logo=google&logoColor=white)](https://bughunters.google.com/profile/b6e09c6c-f5ca-4b2b-aa51-aed6193a8418)
+[![google](https://img.shields.io/badge/google-0078D4?logo=google&logoColor=blue)](https://bughunters.google.com/profile/b6e09c6c-f5ca-4b2b-aa51-aed6193a8418)
 ![apple](https://img.shields.io/badge/apple-0078D4&?logo=apple&logoColor=white)
 
 [![hackerone](https://img.shields.io/badge/-HackerOne-%23494649?logo=hackerone&logoColor=white)](https://hackerone.com/gh0stan0n?type=user)
