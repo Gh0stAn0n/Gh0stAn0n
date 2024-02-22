@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=サイバーテックガイ)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=サイバーテックガイ;)](https://git.io/typing-svg)
+
 Passionate by history and science since i’m young - Mathematics, Physics, Biology, Chemistry, Astronomy, etc… but above all, anything related to technology - Video Games, Artificial Intelligence, and the power provided by Cybersecurity, which is a world from another dimension.
 
 My favorite cyber field is Penetration Testing but I’m interested in Reverse Engineering and Exploit Development as well.
