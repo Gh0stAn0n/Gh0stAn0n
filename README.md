@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Dozoyoroshiku,+Ethan+desu;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Dozoyoroshiku,+Ethan+desu;)](https://git.io/typing-svg)
 
 Passionate by history and science since i’m young - Mathematics, Physics, Biology, Chemistry, Astronomy, etc… but above all, anything related to technology - Video Games, Artificial Intelligence, and the power provided by Cybersecurity, which is a world from another dimension.
 
