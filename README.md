@@ -3,12 +3,14 @@
 
 Passionate by history and science since i’m young - Mathematics, Physics, Biology, Chemistry, Astronomy, etc… but above all, anything related to technology - Video Games, Artificial Intelligence, and the power provided by Cybersecurity, which is a world from another dimension.
 
-My favorite cyber field is Penetration Testing but I like Reverse Engineering and Exploit Development as well.
-I’m currently active on multiple bug bounty programs such as HackerOne and Intigriti.
+My favorite cyber field is Penetration Testing but I like Reverse Engineering and Exploit Development just as much.
+I’m currently active on multiple bug bounty platforms such as HackerOne and Intigriti.
 
 I'm also a C# and .NET Developer with extensive knowledge of the CWE/SANS TOP 25 Security Vulnerabilities, adept at identifying and mitigating potential security risks by analyzing and optimizing the application source code.
 
 I’m deeply working on learning scientific-based programming languages such as Julia, Lua, Lisp, Haskell, Scilab, Scala, and R for scientific purposes. Ultimately, I aspire to create my own low-level programming language.
+
+I love to see how things work in depth, make things, break things and make things that break things.
 
 
 ![gif](https://media3.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif?cid=ecf05e47cncowfb81642td6oiqf6t5ev8mb3xgli8tmijki6&ep=v1_gifs_search&rid=giphy.gif&ct=g)
