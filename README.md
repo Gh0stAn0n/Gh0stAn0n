@@ -104,14 +104,6 @@ I love to see how things work in depth, make things, break things and make thing
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900?logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6?logo=azure-devops&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e?logo=sqlite&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?logo=mongodb&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats
